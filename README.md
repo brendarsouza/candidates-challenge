@@ -8,7 +8,7 @@ This project is a portal to add job candidates. It consists of a backend made wi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/BrendaReSouza/candidates-challenge
+    git clone https://github.com/brendarsouza/candidates-challenge
     cd candidates-challenge/backend
     ```
 
